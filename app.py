@@ -6,3 +6,4 @@ def luas_segitiga(alas, tinggi):
     
 if __name__ == "__main__":
     luas_segitiga()
+    print("Haloo Dunia!")
